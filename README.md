@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+![ReadMe Card](https://github-readme-stats.vercel.app/api?username=sagargada73&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+<figure><embed src="https://wakatime.com/share/@640e1fac-9ee7-46ad-af46-eb21cae43572/0dd0c271-c9ad-45a0-93ca-fed3b138c190.svg"></embed></figure>
 <!--
-**sagargada73/sagargada73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**sagargada73/sagargada73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![counter](https://[YourEndpoint].m.pipedream.net)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
