@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=sagargada73&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-<figure><embed src="https://wakatime.com/share/@640e1fac-9ee7-46ad-af46-eb21cae43572/0dd0c271-c9ad-45a0-93ca-fed3b138c190.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@640e1fac-9ee7-46ad-af46-eb21cae43572/a69e90bb-2047-48f3-a378-d28302679fe6.svg"></embed></figure>
+[![Sagar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=/@640e1fac-9ee7-46ad-af46-eb21cae43572)](https://github.com/sagargada73)
 <!--
 **sagargada73/sagargada73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![counter](https://[YourEndpoint].m.pipedream.net)
 Here are some ideas to get you started:
