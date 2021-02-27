@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=sagargada73&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sagargada73)](https://github.com/sagargada73)-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sagargada73&v=2)](https://github.com/sagargada73)
 <!--
 **sagargada73/sagargada73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![counter](https://[YourEndpoint].m.pipedream.net)
 Here are some ideas to get you started:
